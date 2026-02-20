@@ -22,7 +22,3 @@ Bienvenido/a a mi perfil de GitHub. Aquí tienes un índice rápido de mis repos
 37. 🕵️ [privatezilla](https://github.com/cserra16/privatezilla) — Revisión de privacidad y seguridad para Windows 10.
 38. 🧹 [Windows10Debloater](https://github.com/cserra16/Windows10Debloater) — Script para eliminar bloatware de Windows 10.
 39. ⏰ [espbinaryclock](https://github.com/cserra16/espbinaryclock) — Proyecto de reloj binario con ESP.
-
----
-
-Si quieres, en una siguiente iteración lo convierto en un índice por categorías (IA, educación, seguridad, infra, utilidades) con badges.
